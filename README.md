@@ -32,6 +32,11 @@ npm run dev
 A aplicação ficará disponível em:
 👉 http://localhost:3000
 
+## informações de login:
+
+email: daniel@email.com <br>
+senha: 123456
+
 ## 3️⃣ Rodar o Design System (Storybook)
 
 ```bash
