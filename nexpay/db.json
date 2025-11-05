@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Daniel",
+      "email": "daniel@email.com",
+      "senha": "123456",
+      "saldo": 2000,
+      "transacoes": [
+        {
+          "id": 1762212985669,
+          "tipo": "deposito",
+          "valor": 2000,
+          "taxa": 0,
+          "data": "03/11/2025, 20:36:25"
+        }
+      ]
+    },
+    {
+      "id": "b95a",
+      "nome": "Mario",
+      "email": "mario@email.com",
+      "senha": "123456",
+      "saldo": 1000,
+      "transacoes": [
+        {
+          "id": 1762301459612,
+          "tipo": "deposito",
+          "valor": 1000,
+          "taxa": 0,
+          "data": "04/11/2025, 21:10:59"
+        }
+      ]
+    }
+  ]
+}
